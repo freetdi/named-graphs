@@ -1,0 +1,3 @@
+This repository contains "named graphs". They have been extracted from 
+sage.graphs and converted to both the gr-graph format and the dot-graph 
+format.
